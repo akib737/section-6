@@ -1,0 +1,28 @@
+html,
+body {
+  font-family: sans-serif;
+  font-size: 16px;
+}
+img {
+  vertical-align: middle;
+  object-fit: cover;
+}
+a,
+a:hover {
+  text-decoration: none;
+}
+a,
+a:focus,
+input,
+input:focus,
+button,
+button:focus {
+  outline: none;
+}
+ol,
+ul {
+  list-style: none;
+}
+p {
+  font-weight: 400;
+}
